@@ -1,0 +1,21 @@
+p {
+  margin: 0;
+}
+.contactItem {
+  display: flex;
+  gap: 30px;
+  padding: 20px;
+  border-radius: 20px;
+  border: 1px solid #fff;
+  align-items: center;
+}
+.deleteBtn {
+  border: 1px solid #fff;
+  height: 40px;
+}
+.numberCont,
+.nameCont {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

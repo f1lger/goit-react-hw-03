@@ -1,0 +1,18 @@
+.form {
+  padding: 20px;
+  color: white;
+  gap: 20px;
+  display: inline-flex;
+  flex-direction: column;
+  border: 1px solid #fff;
+  border-radius: 20px;
+}
+.labelWrapper {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.eror {
+  display: block;
+  color: orangered;
+}
